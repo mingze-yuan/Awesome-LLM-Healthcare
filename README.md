@@ -2,7 +2,7 @@
 
 ## 🔔 News
 <!-- - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper! -->
-- ✨ [2023/11/03] We create this repository to maintain a paper list on LLM-based agents. More papers are coming soon!
+- ✨ [2023/11/03] We create this repository to maintain a paper list on Large Languagde Models (LLMs) in Medicine.
 
 <div align=center><img src="./assets/main.png" width="90%" /></div>
 
@@ -10,6 +10,8 @@
 With the rapid development of artificial intelligence, large language models (LLMs) have shown promising capabilities in mimicking human-level language comprehension and reasoning. This has sparked significant interest in applying LLMs to enhance various aspects of healthcare, ranging from medical education to clinical decision support. However, medicine involves multifaceted data modalities and nuanced reasoning skills, presenting challenges for integrating LLMs. 
 
 This repository provides a comprehensive review on the applications and implications of LLMs in medicine. It begins by examining the fundamental applications of **general-purpose and specialized LLMs**, demonstrating their utilities in knowledge retrieval, research support, clinical workflow automation, and diagnostic assistance. Recognizing the inherent multimodality of medicine, the review then focuses on **multimodal LLMs**, investigating their ability to process diverse data types like medical imaging and EHRs to augment diagnostic accuracy. To address LLMs’ limitations regarding personalization and complex clinical reasoning, the paper explores the emerging development of **LLM-powered autonomous agents for healthcare**. Furthermore, it summarizes the evaluation methodologies for assessing LLMs’ reliability and safety in medical contexts. Overall, this review offers an extensive analysis on the transformative potential of LLMs in modern medicine. It also highlights the pivotal need for continuous optimizations and ethical oversight before these models can be effectively integrated into clinical practice.
+
+Note that this repository focuses on technical papers that develop LLMs in medicine. We refer readers to our review for clinical applications of LLMs.
 
 **We sincerely value all contributions, whether through pull requests, issue reports, emails, or other forms of communication.**
 
@@ -25,7 +27,7 @@ This repository provides a comprehensive review on the applications and implicat
 - [2023/04] **PMC-LLaMA: Towards Building Open-source Language Models for Medicine** *Chaoyi Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2304.14454)] [[code](https://github.com/chaoyi-wu/PMC-LLaMA)]
 - [2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al.* [[paper](https://arxiv.org/abs/2304.01097)] [[code](https://github.com/xionghonglin/DoctorGLM)]
 - [2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* [[code](https://github.com/michael-wzhu/ChatMed)]
-- [2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al.* arXiv. [[paper](https://arxiv.org/abs/2310.15896)] [[code](https://github.com/scutcyr/BianQue)]
+- [2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2310.15896)] [[code](https://github.com/scutcyr/BianQue)]
 - [2023/04] **MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data** *Tianyu Han et al.* arXiv:2304.08247 [[paper](https://arxiv.org/abs/2304.08247)] [[code](https://github.com/kbressem/medAlpaca)]
 - [2023/05] **HuatuoGPT, towards Taming Language Model to Be a Doctor** *Hongbo Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15075)] [[code](https://github.com/FreedomIntelligence/HuatuoGPT)]
 - [2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* [[code](https://github.com/CMKRG/QiZhenGPT)]
@@ -65,6 +67,17 @@ This repository provides a comprehensive review on the applications and implicat
 - [2023/08] **BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine** *Yizhen Luo et al. arXiv.* [[paper](https://arxiv.org/abs/2308.09442)] [[code](https://github.com/PharMolix/OpenBioMed)]
 - [2023/08] **Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data** *Chaoyi Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.02463)] [[code](https://github.com/chaoyi-wu/RadFM)]
 - [2023/08] **ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders** *Shawn Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01317)]
+- [2023/10] **Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare** *Junling Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.17956)] [[code](https://github.com/williamliujl/Qilin-Med-VL)]
+
+## LLM-Powered Agents in Medicine
+- [2023/04] **ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT** *Chong Ma et al. arXiv.* [[paper](https://arxiv.org/abs/2304.08448)] [[code](https://github.com/MoMarky/ImpressionGPT)]
+- [2023/05] **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** *Zihao Zhao et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15964)] [[code](https://github.com/zhaozh10/ChatCAD)]
+- [2023/05] **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology** *Yuxuan Sun et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15072)] [[code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
+- [2023/06] **AD-AutoGPT: An Autonomous GPT for Alzheimer's Disease Infodemiology** *Haixing Dai et al. arXiv.* [[paper](https://arxiv.org/abs/2306.10095)]
+- [2023/07] **Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers** *Jiajia Yuan et al. The Innovation Medicine.* [[paper](https://the-innovation.org/data/article/medicine/preview/pdf/XINNMEDICINE-2023-0065.pdf)]
+- [2023/07] **PharmacyGPT: The AI Pharmacist** *Zhengliang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2307.10432)]
+- [2023/10] **Conversational Health Agents: A Personalized LLM-Powered Agent Framework** *Mahyar Abbasian et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02374)]
+
 
 ## Acknowledgement
 We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main), [CareGPT](https://github.com/WangRongsheng/CareGPT), and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
