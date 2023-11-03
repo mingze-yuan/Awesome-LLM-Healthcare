@@ -19,19 +19,33 @@ This repository provides a comprehensive review on the applications and implicat
 - [2022/12] **A large language model for electronic health records** *Xi Yang et al. npj Digital Medicine.* [[paper](https://www.nature.com/articles/s41746-022-00742-2)] [[code](https://github.com/uf-hobi-informatics-lab/GatorTron)]
 - [2023/03] **ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge** *Yunxiang Li et al. Cureus.* [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10364849/)] [[code](https://github.com/Kent0n-Li/ChatDoctor)]
 - [2023/03] **ChatGLM-Med** *Haochun Wang et al.* [[code](https://github.com/SCIR-HI/Med-ChatGLM)]
+- [2023/03] **Palmyra-Large Parameter Autoregressive Language Model** *Writer Engineering team.* [[code](https://huggingface.co/Writer/palmyra-med-20b)]
+- [2023/04] **Doctor Dignity** *Siraj Raval et al.* [[code](https://github.com/llSourcell/Doctor-Dignity)]
 - [2023/04] **HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge** *Haochun Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2304.06975)] [[code](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)]
 - [2023/04] **PMC-LLaMA: Towards Building Open-source Language Models for Medicine** *Chaoyi Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2304.14454)] [[code](https://github.com/chaoyi-wu/PMC-LLaMA)]
 - [2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al.* [[paper](https://arxiv.org/abs/2304.01097)] [[code](https://github.com/xionghonglin/DoctorGLM)]
+- [2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* [[code](https://github.com/michael-wzhu/ChatMed)]
 - [2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al.* arXiv. [[paper](https://arxiv.org/abs/2310.15896)] [[code](https://github.com/scutcyr/BianQue)]
+- [2023/04] **MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data** *Tianyu Han et al.* arXiv:2304.08247 [[paper](https://arxiv.org/abs/2304.08247)] [[code](https://github.com/kbressem/medAlpaca)]
 - [2023/05] **HuatuoGPT, towards Taming Language Model to Be a Doctor** *Hongbo Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15075)] [[code](https://github.com/FreedomIntelligence/HuatuoGPT)]
 - [2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* [[code](https://github.com/CMKRG/QiZhenGPT)]
+- [2023/05] **CMLM-ZhongJing: Large Language Model is Good Story Listener** *Yanlan Kang et al.* [[code](https://github.com/pariskang/CMLM-ZhongJing)]
 - [2023/05] **Towards Expert-Level Medical Question Answering with Large Language Models** *Karan Singhal et al. arXiv.* [[paper](https://arxiv.org/abs/2305.09617)]
+- [2023/05] **Clinfo.AI: Answer Clinical Questions Grounded in Medical Literature** *Alejandro Lozano et al.* [[code](https://github.com/som-shahlab/Clinfo.AI)]
 - [2023/06] **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation** *Guangyu Wang et al.* arXiv. [[paper](https://arxiv.org/abs/2306.09968)]
 - [2023/06] **MedicalGPT: Training Medical GPT Model** *Ming Xu et al.* [[code](https://github.com/shibing624/MedicalGPT)]
 - [2023/06] **Radiology-GPT: A Large Language Model for Radiology** *Zhengliang Liu et al.* [[paper](https://arxiv.org/abs/2306.08666)] [[code](https://huggingface.co/spaces/allen-eric/radiology-gpt)] 
+- [2023/06] **ShenNong-TCM: A Traditional Chinese Medicine Large Language Model** *Wei Zhu et al.* [[code](https://github.com/michael-wzhu/ShenNong-TCM-LLM)]
+- [2023/06] **Sunsimiao: Chinese Medicine LLM** *Xin Yan et al.* [[code](https://github.com/thomas-yanxin/Sunsimiao)]
+- [2023/06] **PULSE** *OpenMedLab*. [[code](https://github.com/openmedlab/PULSE)]
+- [2023/06] **TCMLLM** *Xuezhong Zhou et al.* [[code](https://github.com/2020MEAI/TCMLLM)]
+- [2023/07] **MING: A Chinese Medical Consultation Large Model** *Yusheng Liao et al.* [[code](https://github.com/MediaBrain-SJTU/MING)]
+- [2023/07] **HuangDi: A Generative Large Language Model for Ancient Chinese Medical Texts** *Jundong Zhang et al.* [[code](https://github.com/Zlasejd/HuangDi)]
 - [2023/08] **CareGPT: Medical LLM, Open Source Driven for a Healthy Future** *Rongsheng Wang et al.* [[code](https://github.com/WangRongsheng/CareGPT)]
-
-
+- [2023/08] **DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation** *Zhijie Bao et al.* [[code](https://github.com/FudanDISC/DISC-MedLLM)] [[paper](https://arxiv.org/abs/2308.14346)]
+- [2023/08] **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue** *Songhua Yang et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03549)] [[code](https://github.com/SupritYoung/Zhongjing)]
+- [2023/09] **HealGPT** *GR-Tech* [[code](https://github.com/TONYCHANBB/HealGPT)] [[demo](http://heal-gpt.cn/)]
+- [2023/09] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Taiyi-Team.* [[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
 
 ## Multimodal LLMs in Medicine
 - [2023/04] **Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities** *Chang Shu et al.* [[blog](https://cambridgeltl.github.io/visual-med-alpaca/)] [[code](https://github.com/cambridgeltl/visual-med-alpaca)]
@@ -53,4 +67,4 @@ This repository provides a comprehensive review on the applications and implicat
 - [2023/08] **ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders** *Shawn Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01317)]
 
 ## Acknowledgement
-We have structured our repository by drawing inspiration from the substantial work of repositories such as [[LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main)], [[CareGPT](https://github.com/WangRongsheng/CareGPT)], and insights from [[RadLLM](https://arxiv.org/pdf/2307.13693.pdf)]. We extend our sincere gratitude to their contributions.
+We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main), [CareGPT](https://github.com/WangRongsheng/CareGPT), and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
