@@ -6,20 +6,6 @@
 
 <div align=center><img src="./assets/main.png" width="90%" /></div>
 
-## Table of Contents
-- [Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review](#llms)
-    - [🔔 News](#-news)
-    - [🌟 Introduction](#-introduction)
-    - [Specialized Medical LLMs](#specialized-medical-llms)
-    - [Multimodal LLMs in Medicine](#multimodal-llms-in-medicine)
-    - [LLM-Powered Healthcare Agents](#llm-powered-healthcare-agents)
-        - [Related Surveys](#related-surveys)
-        - [Repositories](#repositories)
-    - [Valuable Resources](#valuable-resources)
-    - [Contribution](#contribution)
-    - [Citing](#citing)
-
-
 ## 🌟 Introduction
 In the fast-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as groundbreaking tools with the potential to emulate complex human linguistic abilities. Their profound impact on healthcare, a field at the crossroads of multifaceted data and intricate decision-making, is of immense interest. This repository delves into the integration challenges and showcases the breadth of LLMs' applications within the medical sphere.
 
@@ -30,6 +16,20 @@ Our extensive analysis sheds light on the transformative promise LLMs hold for h
 Please note: This repository's scope is centered on the technological evolution of LLMs in medicine. For insights into clinical deployments and applications of LLMs, we invite you to consult our comprehensive review.
 
 **We sincerely value all contributions, whether through pull requests, issue reports, emails, or other forms of communication.**
+
+## Table of Contents
+- [Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review](#llms)
+    - [🔔 News](#-news)
+    - [🌟 Introduction](#-introduction)
+    - [Specialized Medical LLMs](#specialized-medical-llms)
+    - [Multimodal LLMs in Medicine](#multimodal-llms-in-medicine)
+    - [LLM-Powered Healthcare Agents](#llm-powered-healthcare-agents)
+    - [Valuable Resources](#valuable-resources)
+        - [Related Surveys](#related-surveys)
+        - [Repositories](#repositories)
+    - [Project Maintainers \& Contributors](#project-maintainers--contributors)
+    - [Citing](#citing)
+    - [Acknowledgement](#acknowledgement)
 
 ## Specialized Medical LLMs
 - [2022/10] **Health system-scale language models are all-purpose prediction engines** *Lavender Yao Jiang et al.* [[paper](https://www.nature.com/articles/s41586-023-06160-y)] [[code](https://github.com/nyuolab/NYUTron)] 
@@ -103,20 +103,28 @@ Please note: This repository's scope is centered on the technological evolution 
 - [2023/06] **Faithful AI in Medicine: A Systematic Review with Large Language Models and Beyond.** *Qianqian Xie et al. medRxiv.* [[paper](https://www.medrxiv.org/content/10.1101/2023.04.18.23288752v3)]
 - [2023/07] **Med-HALT: Medical Domain Hallucination Test for Large Language Models.** *Ankit Pal et al. EMNLP'23.* [[paper](https://arxiv.org/abs/2307.15343)] [[code](https://github.com/medhalt/medhalt)]
 - [2023/08] **LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation** *Xiaoming Shi et al. arXiv.* [[paper](https://arxiv.org/abs/2308.07635)]
-- [2023/09] **Safetybench: Evaluating the safety of large language models with multiple choice questions.** *Zhexin Zhang et al.* [[paper](https://arxiv.org/abs/2309.07045)] [[code](https://github.com/thu-coai/SafetyBench)]
+- [2023/09] **Safetybench: Evaluating the safety of large language models with multiple choice questions.** *Zhexin Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2309.07045)] [[code](https://github.com/thu-coai/SafetyBench)]
 
 ## Valuable Resources
 ### Related Surveys
+#### LLMs
+- [2022/12] **Towards Reasoning in Large Language Models: A Survey.** *Jie Huang, Kevin Chen-Chuan Chang.ACL'23 Findings* [[paper](https://arxiv.org/abs/2212.10403)]
+- [2023/03] **Language Model Behavior: A Comprehensive Survey.** *Tyler A. Chang, Benjamin K. Bergen.  arXiv.* [[paper](https://arxiv.org/abs/2303.11504)]
+- [2023/03] **A survey of large language models.** *Wayne Xin Zhao et al. arXiv.* [[paper](https://arxiv.org/abs/2303.18223)] [[code](https://github.com/RUCAIBox/LLMSurvey)]
+- [2023/04] **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond.** *Jingfeng Yang et al. arXiv.* [[paper](https://arxiv.org/abs/2304.13712)]
+- [2023/07] **Aligning Large Language Models with Human: A Survey.** *Yufei Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2307.12966)] [[code](https://github.com/GaryYufei/AlignLLMHumanSurvey)]
+- [2023/08] **Instruction Tuning for Large Language Models: A Survey.** *Shengyu Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10792)] [[code](https://github.com/xiaoya-li/Instruction-Tuning-Survey)]
+
+
 ### Repositories
 
-## Contribution
-We sincerely value all contributions, whether through pull requests, issue reports, emails, or other forms of communication.
+## Project Maintainers & Contributors
+- [Mingze Yuan](https://github.com/mingze-yuan)
+- [Peng Bao](https://github.com/pengbao7598)
+- [Zifan Chen](https://github.com/czifan)
 
 ## Citing
 If you find this repository useful in your research, please consider citing it.
-
-## License
-This project is licensed under the terms of the MIT license.
 
 ## Acknowledgement
 We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main), [CareGPT](https://github.com/WangRongsheng/CareGPT), and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
