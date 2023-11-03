@@ -47,7 +47,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al.* [[paper](https://arxiv.org/abs/2304.01097)] [[code](https://github.com/xionghonglin/DoctorGLM)]
 - [2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* [[code](https://github.com/michael-wzhu/ChatMed)]
 - [2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2310.15896)] [[code](https://github.com/scutcyr/BianQue)]
-- [2023/04] **MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data** *Tianyu Han et al.* arXiv:2304.08247 [[paper](https://arxiv.org/abs/2304.08247)] [[code](https://github.com/kbressem/medAlpaca)]
+- [2023/04] **MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data** *Tianyu Han et al. arXiv.* [[paper](https://arxiv.org/abs/2304.08247)] [[code](https://github.com/kbressem/medAlpaca)]
 - [2023/05] **HuatuoGPT, towards Taming Language Model to Be a Doctor** *Hongbo Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15075)] [[code](https://github.com/FreedomIntelligence/HuatuoGPT)]
 - [2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* [[code](https://github.com/CMKRG/QiZhenGPT)]
 - [2023/05] **CMLM-ZhongJing: Large Language Model is Good Story Listener** *Yanlan Kang et al.* [[code](https://github.com/pariskang/CMLM-ZhongJing)]
@@ -65,7 +65,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/08] **CareGPT: Medical LLM, Open Source Driven for a Healthy Future** *Rongsheng Wang et al.* [[code](https://github.com/WangRongsheng/CareGPT)]
 - [2023/08] **DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation** *Zhijie Bao et al.* [[code](https://github.com/FudanDISC/DISC-MedLLM)] [[paper](https://arxiv.org/abs/2308.14346)]
 - [2023/08] **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue** *Songhua Yang et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03549)] [[code](https://github.com/SupritYoung/Zhongjing)]
-- [2023/09] **HealGPT** *GR-Tech* [[code](https://github.com/TONYCHANBB/HealGPT)] [[demo](http://heal-gpt.cn/)]
+- [2023/09] **HealGPT** *GR-Tech.* [[code](https://github.com/TONYCHANBB/HealGPT)] [[demo](http://heal-gpt.cn/)]
 - [2023/09] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Taiyi-Team.* [[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
 
 ## Multimodal LLMs in Medicine
@@ -78,7 +78,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/06] **LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day** *Chunyuan Li et al. arXiv.* [[paper](https://arxiv.org/abs/2306.00890)] [[code](https://github.com/microsoft/LLaVA-Med/blob/main/README.md)]
 - [2023/06] **XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models** *Omkar Thawkar et al. arXiv.* [[paper](https://arxiv.org/abs/2306.07971)] [[code](https://github.com/mbzuai-oryx/XRayGPT)]
 - [2023/06] **XrayPULSE** *OpenMedLab.* [[code](https://github.com/openmedlab/XrayPULSE)]
-- [2023/06] **Lmflow: An extensible toolkit for finetuning and inference of large foundation models** *Shizhe Diao et al.* [[code](https://github.com/OptimalScale/LMFlow)] [[paper](https://arxiv.org/abs/2306.12420)] [[blog](https://optimalscale.github.io/LMFlow/)]
+- [2023/06] **Lmflow: An extensible toolkit for finetuning and inference of large foundation models** *Shizhe Diao et al. arXiv.* [[code](https://github.com/OptimalScale/LMFlow)] [[paper](https://arxiv.org/abs/2306.12420)] [[blog](https://optimalscale.github.io/LMFlow/)]
 - [2023/07] **CephGPT-4: An Interactive Multimodal Cephalometric Measurement and Diagnostic System with Visual Large Language Model** *Lei Ma et al. arXiv.* [[paper](https://arxiv.org/abs/2307.07518)]
 - [2023/07] **Towards Generalist Biomedical AI** *Tao Tu et al. arXiv.* [[paper](https://arxiv.org/abs/2307.14334)] [[code](https://github.com/kyegomez/Med-PaLM)]
 - [2023/07] **Med-Flamingo: a Multimodal Medical Few-shot Learner** *Michael Moor et al. arXiv.* [[paper](https://arxiv.org/abs/2307.15189)] [[code](https://github.com/snap-stanford/med-flamingo)]
@@ -144,7 +144,6 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [CareGPT](https://github.com/WangRongsheng/CareGPT) with curated references
-
 
 ## Project Maintainers & Contributors
 - [Mingze Yuan](https://github.com/mingze-yuan) (mzyuan@pku.edu.cn)
