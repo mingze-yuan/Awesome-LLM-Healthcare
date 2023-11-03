@@ -2,16 +2,25 @@
 
 ## 🔔 News
 <!-- - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper! -->
-- ✨ [2023/11/03] We create this repository to maintain a paper list on Large Languagde Models (LLMs) in Medicine.
+- ✨ [2023/11/03] We create this repository to maintain a paper list on Large Language Models (LLMs) in Medicine.
 
 <div align=center><img src="./assets/main.png" width="90%" /></div>
 
+## Table of Contents
+- [Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review](#llms)
+    - [🔔 News](#-news)
+    - [🌟 Introduction](#-introduction)
+    - [Specialized Medical LLMs](#specialized-medical-llms)
+    - [Multimodal LLMs in Medicine](#multimodal-llms-in-medicine)
+    - [LLM-Powered Healthcare Agents](#llm-powered-healthcare-agents)
+        - [Related Surveys](#related-surveys)
+        - [Repositories](#repositories)
+    - [Valuable Resources](#valuable-resources)
+    - [Contribution](#contribution)
+    - [Citing](#citing)
+
+
 ## 🌟 Introduction
-<!-- With the rapid development of artificial intelligence, large language models (LLMs) have shown promising capabilities in mimicking human-level language comprehension and reasoning. This has sparked significant interest in applying LLMs to enhance various aspects of healthcare, ranging from medical education to clinical decision support. However, medicine involves multifaceted data modalities and nuanced reasoning skills, presenting challenges for integrating LLMs. 
-
-This repository provides a comprehensive review on the applications and implications of LLMs in medicine. It begins by examining the fundamental applications of **general-purpose and specialized LLMs**, demonstrating their utilities in knowledge retrieval, research support, clinical workflow automation, and diagnostic assistance. Recognizing the inherent multimodality of medicine, the review then focuses on **multimodal LLMs**, investigating their ability to process diverse data types like medical imaging and EHRs to augment diagnostic accuracy. To address LLMs’ limitations regarding personalization and complex clinical reasoning, the paper explores the emerging development of **LLM-powered autonomous agents for healthcare**. Furthermore, it summarizes the evaluation methodologies for assessing LLMs’ reliability and safety in medical contexts. Overall, this review offers an extensive analysis on the transformative potential of LLMs in modern medicine. It also highlights the pivotal need for continuous optimizations and ethical oversight before these models can be effectively integrated into clinical practice.
-
-Note that this repository focuses on technical papers that develop LLMs in medicine. We refer readers to our review for clinical applications of LLMs. -->
 In the fast-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as groundbreaking tools with the potential to emulate complex human linguistic abilities. Their profound impact on healthcare, a field at the crossroads of multifaceted data and intricate decision-making, is of immense interest. This repository delves into the integration challenges and showcases the breadth of LLMs' applications within the medical sphere.
 
 Herein, we offer a curated anthology that navigates through the realm of **general-purpose and specialized LLMs**, elucidating their roles in enhancing medical research, streamlining clinical operations, and supporting diagnostic processes. We cast a spotlight on **multimodal LLMs**, championing their sophistication in harmonizing varied data streams such as medical imagery and electronic health records (EHRs) to refine diagnostic precision. Advancing into the frontiers of innovation, we explore **LLM-empowered autonomous healthcare agents**, scrutinizing their capacity for personalized care and intricate clinical reasoning. Additionally, we present a synthesis of **evaluative strategies** critical for verifying the dependability and security of LLMs within medical settings.
@@ -100,6 +109,14 @@ Please note: This repository's scope is centered on the technological evolution 
 ### Related Surveys
 ### Repositories
 
+## Contribution
+We sincerely value all contributions, whether through pull requests, issue reports, emails, or other forms of communication.
+
+## Citing
+If you find this repository useful in your research, please consider citing it.
+
+## License
+This project is licensed under the terms of the MIT license.
 
 ## Acknowledgement
 We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main), [CareGPT](https://github.com/WangRongsheng/CareGPT), and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
