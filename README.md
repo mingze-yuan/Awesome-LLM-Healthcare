@@ -14,7 +14,7 @@ This repository provides a comprehensive review on the applications and implicat
 Note that this repository focuses on technical papers that develop LLMs in medicine. We refer readers to our review for clinical applications of LLMs. -->
 In the fast-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as groundbreaking tools with the potential to emulate complex human linguistic abilities. Their profound impact on healthcare, a field at the crossroads of multifaceted data and intricate decision-making, is of immense interest. This repository delves into the integration challenges and showcases the breadth of LLMs' applications within the medical sphere.
 
-Herein, we offer a curated anthology that navigates through the realm of **general-purpose and specialized LLMs**, elucidating their roles in enhancing medical research, streamlining clinical operations, and supporting diagnostic processes. We cast a spotlight on **multimodal LLMs**, championing their sophistication in harmonizing varied data streams such as medical imagery and electronic health records (EHRs) to refine diagnostic precision. Advancing into the frontiers of innovation, we explore **LLM-empowered autonomous healthcare agents**, scrutinizing their capacity for personalized care and intricate clinical reasoning. Additionally, we present a synthesis of **evaluative strategies critical** for verifying the dependability and security of LLMs within medical settings.
+Herein, we offer a curated anthology that navigates through the realm of **general-purpose and specialized LLMs**, elucidating their roles in enhancing medical research, streamlining clinical operations, and supporting diagnostic processes. We cast a spotlight on **multimodal LLMs**, championing their sophistication in harmonizing varied data streams such as medical imagery and electronic health records (EHRs) to refine diagnostic precision. Advancing into the frontiers of innovation, we explore **LLM-empowered autonomous healthcare agents**, scrutinizing their capacity for personalized care and intricate clinical reasoning. Additionally, we present a synthesis of **evaluative strategies** critical for verifying the dependability and security of LLMs within medical settings.
 
 Our extensive analysis sheds light on the transformative promise LLMs hold for healthcare's future. Yet, we underscore the indispensable call for ongoing refinement and ethical vigilance as precursors to their successful clinical integration.
 
@@ -86,7 +86,15 @@ Please note: This repository's scope is centered on the technological evolution 
 - [2023/10] **Conversational Health Agents: A Personalized LLM-Powered Agent Framework** *Mahyar Abbasian et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02374)]
 
 ## Evaluation
-
+- [2023/02] **GPTScore: Evaluate as You Desire** *Jinlan Fu et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04166)] [[code](https://github.com/jinlanfu/GPTScore/blob/main/README.md)]
+- [2023/03] **G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment** *Yang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2303.16634)] [[code](https://github.com/nlpyang/geval)]
+- [2023/04] **Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: An Empirical Study** *Yi Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2304.00723)]
+- [2023/05] **Can Large Language Models Be an Alternative to Human Evaluations?** *Cheng-Han Chiang et al. ACL'23.* [[paper](https://arxiv.org/abs/2305.01937)]
+- [2023/05] **MedGPTEval: A Dataset and Benchmark to Evaluate Responses of Large Language Models in Medicine** *Jie Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2305.07340)]
+- [2023/06] **Faithful AI in Medicine: A Systematic Review with Large Language Models and Beyond.** *Qianqian Xie et al. medRxiv.* [[paper](https://www.medrxiv.org/content/10.1101/2023.04.18.23288752v3)]
+- [2023/07] **Med-HALT: Medical Domain Hallucination Test for Large Language Models.** *Ankit Pal et al. EMNLP'23.* [[paper](https://arxiv.org/abs/2307.15343)] [[code](https://github.com/medhalt/medhalt)]
+- [2023/08] **LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation** *Xiaoming Shi et al. arXiv.* [[paper](https://arxiv.org/abs/2308.07635)]
+- [2023/09] **Safetybench: Evaluating the safety of large language models with multiple choice questions.** *Zhexin Zhang et al.* [[paper](https://arxiv.org/abs/2309.07045)] [[code](https://github.com/thu-coai/SafetyBench)]
 
 ## Valuable Resources
 ### Related Surveys
