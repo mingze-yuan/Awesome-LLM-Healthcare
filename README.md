@@ -22,8 +22,13 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [Specialized Medical LLMs](#specialized-medical-llms)
 - [Multimodal LLMs in Medicine](#multimodal-llms-in-medicine)
 - [LLM-Powered Healthcare Agents](#llm-powered-healthcare-agents)
+- [Evaluation](#evaluation)
+    - [Strategies](#strategies)
+    - [Comparative Studies](#comparative-studies)
 - [Valuable Resources](#valuable-resources)
     - [Related Surveys](#related-surveys)
+        - [LLM Techniques](#llm-techniques)
+        - [LLMs in Medicine](#llms-in-medicine)
     - [Repositories](#repositories)
 - [Project Maintainers \& Contributors](#project-maintainers--contributors)
 - [Citing](#citing)
@@ -93,6 +98,8 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/10] **Conversational Health Agents: A Personalized LLM-Powered Agent Framework** *Mahyar Abbasian et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02374)]
 
 ## Evaluation
+
+### Strategies
 - [2023/02] **GPTScore: Evaluate as You Desire** *Jinlan Fu et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04166)] [[code](https://github.com/jinlanfu/GPTScore/blob/main/README.md)]
 - [2023/03] **G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment** *Yang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2303.16634)] [[code](https://github.com/nlpyang/geval)]
 - [2023/04] **Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: An Empirical Study** *Yi Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2304.00723)]
@@ -102,10 +109,14 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/07] **Med-HALT: Medical Domain Hallucination Test for Large Language Models.** *Ankit Pal et al. EMNLP'23.* [[paper](https://arxiv.org/abs/2307.15343)] [[code](https://github.com/medhalt/medhalt)]
 - [2023/08] **LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation** *Xiaoming Shi et al. arXiv.* [[paper](https://arxiv.org/abs/2308.07635)]
 - [2023/09] **Safetybench: Evaluating the safety of large language models with multiple choice questions.** *Zhexin Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2309.07045)] [[code](https://github.com/thu-coai/SafetyBench)]
+### Comparative Studies
+- [2023/04] **Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding.** *Yuqing Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2304.05368)]
+- [2023/07] **Evaluating Large Language Models for Radiology Natural Language Processing.** *Zhengliang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2307.13693)]
+- [2023/08] **Evaluating large language models on medical evidence summarization.** *Liyan Tang et al. npj Digital Medicine.* [[paper](https://www.nature.com/articles/s41746-023-00896-7)]
 
 ## Valuable Resources
 ### Related Surveys
-#### LLM techniques
+#### LLM Techniques
 - [2022/12] **Towards Reasoning in Large Language Models: A Survey.** *Jie Huang, Kevin Chen-Chuan Chang.ACL'23 Findings* [[paper](https://arxiv.org/abs/2212.10403)]
 - [2023/02] **Augmented Language Models: a Survey.** *Grégoire Mialon et al. arXiv.* [[paper](https://arxiv.org/abs/2302.07842)]
 - [2023/03] **Language Model Behavior: A Comprehensive Survey.** *Tyler A. Chang, Benjamin K. Bergen.  arXiv.* [[paper](https://arxiv.org/abs/2303.11504)]
