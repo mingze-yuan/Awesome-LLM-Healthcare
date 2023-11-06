@@ -2,6 +2,7 @@
 
 ## 🔔 News
 <!-- - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper! -->
+- 💥 [2023/11/06] Our review paper is available at [here](https://arxiv.org/abs/2311.01918).
 - ✨ [2023/11/03] We create this repository to maintain a paper list on Large Language Models (LLMs) in Medicine.
 
 <div align=center><img src="./assets/main.png" width="90%" /></div>
@@ -13,7 +14,7 @@ Herein, we offer a curated anthology that navigates through the realm of **gener
 
 Our extensive analysis sheds light on the transformative promise LLMs hold for healthcare's future. Yet, we underscore the indispensable call for ongoing refinement and ethical vigilance as precursors to their successful clinical integration.
 
-Please note: This repository's scope is centered on the **technological evolution of LLMs in medicine**. For insights into clinical deployments and applications of LLMs, we invite you to consult [our comprehensive review](./assets/LLMs_in_Medicine_Review.pdf).
+Please note: This repository's scope is centered on the **technological evolution of LLMs in medicine**. For insights into clinical deployments and applications of LLMs, we invite you to consult [our comprehensive review](https://arxiv.org/pdf/2311.01918.pdf).
 
 **We sincerely value all contributions, whether through pull requests, issue reports, emails, or other forms of communication.**
 
