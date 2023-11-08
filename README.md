@@ -143,6 +143,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ### Repositories
 - [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM)
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [CareGPT](https://github.com/WangRongsheng/CareGPT) with curated references
 
