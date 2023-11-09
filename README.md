@@ -154,6 +154,14 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ## Citing
 If you find this repository useful in your research, please consider citing it.
+```
+@article{yuan2023large,
+  title={Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review},
+  author={Yuan, Mingze and Bao, Peng and Yuan, Jiajia and Shen, Yunhao and Chen, Zifan and Xie, Yi and Zhao, Jie and Chen, Yang and Zhang, Li and Shen, Lin and others},
+  journal={arXiv preprint arXiv:2311.01918},
+  year={2023}
+}
+```
 
 ## Licenses
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) This project is licensed under the terms of the [MIT License](https://lbesson.mit-license.org/).
