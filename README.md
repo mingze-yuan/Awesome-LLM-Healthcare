@@ -54,6 +54,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/05] **CMLM-ZhongJing: Large Language Model is Good Story Listener** *Yanlan Kang et al.* [[code](https://github.com/pariskang/CMLM-ZhongJing)]
 - [2023/05] **Towards Expert-Level Medical Question Answering with Large Language Models** *Karan Singhal et al. arXiv.* [[paper](https://arxiv.org/abs/2305.09617)]
 - [2023/05] **Clinfo.AI: Answer Clinical Questions Grounded in Medical Literature** *Alejandro Lozano et al.* [[code](https://github.com/som-shahlab/Clinfo.AI)]
+- [2023/05] **CAMEL: Clinically Adapted Model Enhanced from LLaMA** *Sunjun Kweon et al.* [[code](https://github.com/starmpcc/CAMEL)] [[blog](https://starmpcc.github.io/CAMEL/)]
 - [2023/06] **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation** *Guangyu Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2306.09968)]
 - [2023/06] **MedicalGPT: Training Medical GPT Model** *Ming Xu et al.* [[code](https://github.com/shibing624/MedicalGPT)]
 - [2023/06] **Radiology-GPT: A Large Language Model for Radiology** *Zhengliang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2306.08666)] [[code](https://huggingface.co/spaces/allen-eric/radiology-gpt)] 
@@ -68,6 +69,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/08] **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue** *Songhua Yang et al. arXiv.* [[paper](https://arxiv.org/abs/2308.03549)] [[code](https://github.com/SupritYoung/Zhongjing)]
 - [2023/09] **HealGPT** *GR-Tech.* [[code](https://github.com/TONYCHANBB/HealGPT)] [[demo](http://heal-gpt.cn/)]
 - [2023/09] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Taiyi-Team.* [[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
+- [2023/10] **Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes** *Sunjun Kweon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.00237)] [[code](https://github.com/starmpcc/Asclepius)]
 
 ## Multimodal LLMs in Medicine
 - [2023/04] **Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities** *Chang Shu et al.* [[blog](https://cambridgeltl.github.io/visual-med-alpaca/)] [[code](https://github.com/cambridgeltl/visual-med-alpaca)]
