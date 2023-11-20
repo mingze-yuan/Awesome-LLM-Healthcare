@@ -94,6 +94,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ### GPT-4V
 - [2023/11] **Performance of Multimodal GPT-4V on USMLE with Image: Potential for Imaging Diagnostic Support with Explanations** *Yang et al. medRxiv.* [[paper](https://www.medrxiv.org/content/10.1101/2023.10.26.23297629v3)]
+- [2023/10] **Diagnostic Accuracy of GPT Multimodal Analysis on USMLE Questions Including Text and Visuals** *Sorin et al. medRxiv.* [[paper](https://www.medrxiv.org/content/10.1101/2023.10.29.23297733v1)]
 - [2023/10] **Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V** *Yan et al. arXiv.* [[paper](https://arxiv.org/abs/2310.19061)]
 - [2023/10] **A Comprehensive Study of GPT-4V's Multimodal Capabilities in Medical Imaging** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2310.20381)]
 - [2023/10] **Can GPT-4V(ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis** *Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.09909)]
