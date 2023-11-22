@@ -36,10 +36,10 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [Acknowledgement](#acknowledgement)
 
 ## Specialized Medical LLMs
+- [2023/11] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Ling Luo et al. arXiv.* [[paper](https://arxiv.org/abs/2311.11608)][[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
 - [2023/11] **HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs** *Chen et al. arXiv* [[paper](https://arxiv.org/abs/2311.09774)]
 - [2023/10] **ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Report Generation Based on Multi-institution and Multi-system Data** *Zhong et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05242)]
 - [2023/10] **Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes** *Sunjun Kweon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.00237)] [[code](https://github.com/starmpcc/Asclepius)]
-- [2023/09] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Taiyi-Team.* [[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
 - [2023/09] **HealGPT** *GR-Tech.* [[code](https://github.com/TONYCHANBB/HealGPT)] [[demo](http://heal-gpt.cn/)]
 - [2023/09] **Radiology-Llama2: Best-in-Class Large Language Model for Radiology** *Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2309.06419)]
 - [2023/08] **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue** *Songhua Yang et al. arXiv.* [[paper](https://arxiv.org/abs/2308.03549)] [[code](https://github.com/SupritYoung/Zhongjing)]
@@ -103,6 +103,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/09] **The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)** *Yang et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17421)]
 
 ## LLM-Powered Healthcare Agents
+- [2023/11] **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning** *Xiangru Tang et al. arxiv.* [[paper](https://arxiv.org/abs/2311.10537)][[code](https://github.com/gersteinlab/MedAgents)] 
 - [2023/10] **Conversational Health Agents: A Personalized LLM-Powered Agent Framework** *Mahyar Abbasian et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02374)]
 - [2023/07] **PharmacyGPT: The AI Pharmacist** *Zhengliang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2307.10432)]
 - [2023/07] **Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers** *Jiajia Yuan et al. The Innovation Medicine.* [[paper](https://the-innovation.org/data/article/medicine/preview/pdf/XINNMEDICINE-2023-0065.pdf)]
