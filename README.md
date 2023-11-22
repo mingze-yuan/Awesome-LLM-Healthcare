@@ -37,10 +37,13 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ## Specialized Medical LLMs
 - [2023/11] **HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs** *Chen et al. arXiv* [[paper](https://arxiv.org/abs/2311.09774)]
+- [2023/10] **AlpaCare:Instruction-tuned Large Language Models for Medical Application** *Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.14558)] [[code](https://github.com/XZhang97666/AlpaCare)]
 - [2023/10] **ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Report Generation Based on Multi-institution and Multi-system Data** *Zhong et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05242)]
 - [2023/10] **Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes** *Sunjun Kweon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.00237)] [[code](https://github.com/starmpcc/Asclepius)]
 - [2023/09] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Taiyi-Team.* [[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
 - [2023/09] **HealGPT** *GR-Tech.* [[code](https://github.com/TONYCHANBB/HealGPT)] [[demo](http://heal-gpt.cn/)]
+- [2023/09] **MedChatZH: a Better Medical Adviser Learns from Better Instructions** *Tan et al. arXiv.* [[paper](https://arxiv.org/abs/2309.01114)] [[code](https://github.com/tyang816/MedChatZH)]
+- [2023/09] **CPLLM: Clinical Prediction with Large Language Models** *Shoham et al. arXiv.* [[paper](https://arxiv.org/abs/2309.11295)]
 - [2023/09] **Radiology-Llama2: Best-in-Class Large Language Model for Radiology** *Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2309.06419)]
 - [2023/08] **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue** *Songhua Yang et al. arXiv.* [[paper](https://arxiv.org/abs/2308.03549)] [[code](https://github.com/SupritYoung/Zhongjing)]
 - [2023/08] **DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation** *Zhijie Bao et al. arXiv.* [[paper](https://arxiv.org/abs/2308.14346)] [[code](https://github.com/FudanDISC/DISC-MedLLM)]
@@ -103,6 +106,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/09] **The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)** *Yang et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17421)]
 
 ## LLM-Powered Healthcare Agents
+- [2023/11] **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning** *Tang et al. arXiv.* [[paper](https://arxiv.org/abs/2311.10537)] [[code](https://github.com/gersteinlab/MedAgents)]
 - [2023/10] **Conversational Health Agents: A Personalized LLM-Powered Agent Framework** *Mahyar Abbasian et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02374)]
 - [2023/07] **PharmacyGPT: The AI Pharmacist** *Zhengliang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2307.10432)]
 - [2023/07] **Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers** *Jiajia Yuan et al. The Innovation Medicine.* [[paper](https://the-innovation.org/data/article/medicine/preview/pdf/XINNMEDICINE-2023-0065.pdf)]
@@ -110,10 +114,13 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/05] **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** *Zihao Zhao et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15964)] [[code](https://github.com/zhaozh10/ChatCAD)]
 - [2023/05] **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology** *Yuxuan Sun et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15072)] [[code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)]
 - [2023/04] **ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT** *Chong Ma et al. arXiv.* [[paper](https://arxiv.org/abs/2304.08448)] [[code](https://github.com/MoMarky/ImpressionGPT)]
+- [2023/04] **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** *Jin et al. arXiv.* [[paper](https://arxiv.org/abs/2304.09667)]
+- [2023/03] **Almanac: Retrieval-Augmented Language Models for Clinical Medicine** *Zakka et al. Research Square.* [[paper](https://arxiv.org/abs/2303.01229)]
 
 ## Evaluation
 
 ### Strategies
+- [2023/09] **An Automatic Evaluation Framework for Multi-turn Medical Consultations Capabilities of Large Language Models** *Liao et al. arXiv.* [[paper](https://arxiv.org/abs/2309.02077)]
 - [2023/09] **Safetybench: Evaluating the safety of large language models with multiple choice questions.** *Zhexin Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2309.07045)] [[code](https://github.com/thu-coai/SafetyBench)]
 - [2023/08] **LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation** *Xiaoming Shi et al. arXiv.* [[paper](https://arxiv.org/abs/2308.07635)]
 - [2023/07] **Med-HALT: Medical Domain Hallucination Test for Large Language Models.** *Ankit Pal et al. EMNLP'23.* [[paper](https://arxiv.org/abs/2307.15343)] [[code](https://github.com/medhalt/medhalt)]
