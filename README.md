@@ -38,7 +38,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 ## Specialized Medical LLMs
 - [2023/11] **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models** *Zeming Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2311.16079)][[code](https://github.com/epfLLM/meditron)]
 - [2023/11] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Ling Luo et al. arXiv.* [[paper](https://arxiv.org/abs/2311.11608)][[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
-- [2023/11] **HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs** *Junying Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2311.09774)]
+- [2023/11] **HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs** *Junying Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2311.09774)][[code](https://github.com/FreedomIntelligence/HuatuoGPT-II)]
 - [2023/10] **AlpaCare:Instruction-tuned Large Language Models for Medical Application** *Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.14558)] [[code](https://github.com/XZhang97666/AlpaCare)]
 - [2023/10] **ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Report Generation Based on Multi-institution and Multi-system Data** *Zhong et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05242)]
 - [2023/10] **Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes** *Sunjun Kweon et al. arXiv.* [[paper](https://arxiv.org/abs/2309.00237)] [[code](https://github.com/starmpcc/Asclepius)]
