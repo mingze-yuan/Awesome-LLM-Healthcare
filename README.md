@@ -64,6 +64,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/05] **CMLM-ZhongJing: Large Language Model is Good Story Listener** *Yanlan Kang et al.* [[code](https://github.com/pariskang/CMLM-ZhongJing)]
 - [2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* [[code](https://github.com/CMKRG/QiZhenGPT)]
 - [2023/05] **HuatuoGPT, towards Taming Language Model to Be a Doctor** *Hongbo Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.15075)] [[code](https://github.com/FreedomIntelligence/HuatuoGPT)]
+- [2023/05] **Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding** *Toma et al. arXiv.* [[paper](https://arxiv.org/abs/2305.12031)] [[code](https://huggingface.co/wanglab)]
 - [2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2310.15896)] [[code](https://github.com/scutcyr/BianQue)]
 - [2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* [[code](https://github.com/michael-wzhu/ChatMed)]
 - [2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al. arXiv.* [[paper](https://arxiv.org/abs/2304.01097)] [[code](https://github.com/xionghonglin/DoctorGLM)]
