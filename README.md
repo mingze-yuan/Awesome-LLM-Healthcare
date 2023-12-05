@@ -36,6 +36,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [Acknowledgement](#acknowledgement)
 
 ## Specialized Medical LLMs
+- [2023/12] **Towards Accurate Differential Diagnosis with Large Language Models** *Daniel McDuff et al. arXiv.* [[paper](https://arxiv.org/abs/2312.00164)]
 - [2023/11] **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models** *Zeming Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2311.16079)][[code](https://github.com/epfLLM/meditron)]
 - [2023/11] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Ling Luo et al. arXiv.* [[paper](https://arxiv.org/abs/2311.11608)][[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)]
 - [2023/11] **HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs** *Junying Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2311.09774)][[code](https://github.com/FreedomIntelligence/HuatuoGPT-II)]
@@ -78,6 +79,10 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2022/12] **A large language model for electronic health records** *Xi Yang et al. npj Digital Medicine.* [[paper](https://www.nature.com/articles/s41746-022-00742-2)] [[code](https://github.com/uf-hobi-informatics-lab/GatorTron)]
 - [2022/12] **Large language models encode clinical knowledge** *Karan Singhal et al. Nature.* [[paper](https://www.nature.com/articles/s41586-023-06291-2)] [[code](https://huggingface.co/google/flan-t5-xl)]
 - [2022/10] **Health system-scale language models are all-purpose prediction engines** *Lavender Yao Jiang et al. Nature.* [[paper](https://www.nature.com/articles/s41586-023-06160-y)] [[code](https://github.com/nyuolab/NYUTron)]
+
+### Prompting
+- [2023/11] **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** *Harsha Nori et al. arXiv.* [[paper](https://arxiv.org/abs/2311.16452)]
+- [2023/07] **Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers** *Jiajia Yuan et al. The Innovation Medicine.* [[paper](https://the-innovation.org/data/article/medicine/preview/pdf/XINNMEDICINE-2023-0065.pdf)]
 
 ## Multimodal LLMs in Medicine
 - [2023/10] **Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare** *Junling Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.17956)] [[code](https://github.com/williamliujl/Qilin-Med-VL)]
