@@ -25,7 +25,6 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [LLM-Powered Healthcare Agents](#llm-powered-healthcare-agents)
 - [Evaluation](#evaluation)
     - [Strategies](#strategies)
-    - [Comparative Studies](#comparative-studies)
 - [Valuable Resources](#valuable-resources)
     - [Related Surveys](#related-surveys)
         - [LLM Techniques](#llm-techniques)
@@ -34,6 +33,14 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [Project Maintainers \& Contributors](#project-maintainers--contributors)
 - [Citing](#citing)
 - [Acknowledgement](#acknowledgement)
+
+## Evaluating General-Purpose LLMs in Medicine via Prompting
+- [2023/11] **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** *Harsha Nori et al. arXiv.* [[paper](https://arxiv.org/abs/2311.16452)]
+- [2023/10] **Exploring the Boundaries of GPT-4 in Radiology** *Liu et al. EMNLP 2023 main.* [[paper](https://arxiv.org/abs/2310.14573)]
+- [2023/08] **Evaluating large language models on medical evidence summarization.** *Liyan Tang et al. npj Digital Medicine.* [[paper](https://www.nature.com/articles/s41746-023-00896-7)]
+- [2023/07] **Evaluating Large Language Models for Radiology Natural Language Processing.** *Zhengliang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2307.13693)]
+- [2023/07] **Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers** *Jiajia Yuan et al. The Innovation Medicine.* [[paper](https://the-innovation.org/data/article/medicine/preview/pdf/XINNMEDICINE-2023-0065.pdf)]
+- [2023/04] **Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding.** *Yuqing Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2304.05368)]
 
 ## Specialized Medical LLMs
 - [2023/12] **Towards Accurate Differential Diagnosis with Large Language Models** *Daniel McDuff et al. arXiv.* [[paper](https://arxiv.org/abs/2312.00164)]
@@ -80,11 +87,8 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2022/12] **Large language models encode clinical knowledge** *Karan Singhal et al. Nature.* [[paper](https://www.nature.com/articles/s41586-023-06291-2)] [[code](https://huggingface.co/google/flan-t5-xl)]
 - [2022/10] **Health system-scale language models are all-purpose prediction engines** *Lavender Yao Jiang et al. Nature.* [[paper](https://www.nature.com/articles/s41586-023-06160-y)] [[code](https://github.com/nyuolab/NYUTron)]
 
-### Prompting
-- [2023/11] **Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine** *Harsha Nori et al. arXiv.* [[paper](https://arxiv.org/abs/2311.16452)]
-- [2023/07] **Advanced prompting as a catalyst: Empowering large language models in the management of gastrointestinal cancers** *Jiajia Yuan et al. The Innovation Medicine.* [[paper](https://the-innovation.org/data/article/medicine/preview/pdf/XINNMEDICINE-2023-0065.pdf)]
-
 ## Multimodal LLMs in Medicine
+- [2023/12] **A Foundational Multimodal Vision Language AI Assistant for Human Pathology** *Ming Y. Liu et al. arXiv,* [[paper](https://export.arxiv.org/abs/2312.07814)]
 - [2023/10] **Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare** *Junling Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.17956)] [[code](https://github.com/williamliujl/Qilin-Med-VL)]
 - [2023/08] **ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders** *Shawn Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01317)]
 - [2023/08] **Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data** *Chaoyi Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.02463)] [[code](https://github.com/chaoyi-wu/RadFM)]
@@ -105,6 +109,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/04] **Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities** *Chang Shu et al.* [[blog](https://cambridgeltl.github.io/visual-med-alpaca/)] [[code](https://github.com/cambridgeltl/visual-med-alpaca)]
 
 ### GPT-4V
+- [2023/12] **Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies** *Pengcheng Chen et al. arXiv,* [[paper](https://arxiv.org/abs/2312.04344)]
 - [2023/11] **Performance of Multimodal GPT-4V on USMLE with Image: Potential for Imaging Diagnostic Support with Explanations** *Yang et al. medRxiv.* [[paper](https://www.medrxiv.org/content/10.1101/2023.10.26.23297629v3)]
 - [2023/10] **Diagnostic Accuracy of GPT Multimodal Analysis on USMLE Questions Including Text and Visuals** *Sorin et al. medRxiv.* [[paper](https://www.medrxiv.org/content/10.1101/2023.10.29.23297733v1)]
 - [2023/10] **Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V** *Yan et al. arXiv.* [[paper](https://arxiv.org/abs/2310.19061)]
@@ -137,11 +142,6 @@ Please note: This repository's scope is centered on the **technological evolutio
 - [2023/04] **Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: An Empirical Study** *Yi Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2304.00723)]
 - [2023/03] **G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment** *Yang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2303.16634)] [[code](https://github.com/nlpyang/geval)]
 - [2023/02] **GPTScore: Evaluate as You Desire** *Jinlan Fu et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04166)] [[code](https://github.com/jinlanfu/GPTScore/blob/main/README.md)]
-
-### Comparative Studies
-- [2023/08] **Evaluating large language models on medical evidence summarization.** *Liyan Tang et al. npj Digital Medicine.* [[paper](https://www.nature.com/articles/s41746-023-00896-7)]
-- [2023/07] **Evaluating Large Language Models for Radiology Natural Language Processing.** *Zhengliang Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2307.13693)]
-- [2023/04] **Are Large Language Models Ready for Healthcare? A Comparative Study on Clinical Language Understanding.** *Yuqing Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2304.05368)]
 
 ## Valuable Resources
 ### Related Surveys
